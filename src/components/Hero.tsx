@@ -115,7 +115,8 @@ const Hero = () => {
               <div className="relative w-72 h-72 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-primary/30 shadow-[0_0_60px_hsl(var(--primary)/0.3)]">
                 <div className="w-full h-full bg-gradient-to-br from-secondary to-navy-800 flex items-center justify-center">
                   <div className="text-center">
-                    <img src="../../../../20251113_2135_Stylish Studio Portrait_remix_01k9z11ex5fvean40d5cyvmbce.png" alt="Abdullah Saeed" />
+                   <div className="text-8xl font-bold gradient-text">AS</div>
+                    <p className="text-muted-foreground mt-2 text-sm">Professional Photo</p>
                   </div>
                 </div>
               </div>
