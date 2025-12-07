@@ -23,9 +23,9 @@ const Footer = () => {
 
   const socialLinks = [
     { icon: MessageCircle, href: "https://wa.me/1234567890", label: "WhatsApp" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-    { icon: Facebook, href: "https://facebook.com", label: "Facebook" },
-    { icon: Mail, href: "mailto:abdullah@example.com", label: "Email" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/abdullah-saeed-seo-expert/", label: "LinkedIn" },
+    { icon: Facebook, href: "https://web.facebook.com/AbdullahSaeed8970/", label: "Facebook" },
+    { icon: Mail, href: "mailto:abdullahseo859@gmail.com", label: "Email" },
   ];
 
   return (
