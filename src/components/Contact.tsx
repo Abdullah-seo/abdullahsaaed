@@ -38,15 +38,15 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, label: "Email", value: "abdullah@example.com", href: "mailto:abdullah@example.com" },
-    { icon: Phone, label: "Phone", value: "+1 234 567 890", href: "tel:+1234567890" },
+    { icon: Mail, label: "Email", value: "abdullahseo859@gmail.com", href: "mailto:abdullahseo859@gmail.com" },
+    { icon: Phone, label: "Phone", value: "+92 3137205502", href: "tel:+3137205502" },
     { icon: MapPin, label: "Location", value: "Available Worldwide", href: "#" },
   ];
 
   const socialLinks = [
-    { icon: MessageCircle, label: "WhatsApp", href: "https://wa.me/1234567890", color: "hover:text-green-500" },
-    { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com", color: "hover:text-blue-500" },
-    { icon: Facebook, label: "Facebook", href: "https://facebook.com", color: "hover:text-blue-600" },
+    { icon: MessageCircle, label: "WhatsApp", href: "https://wa.me/+923137205502", color: "hover:text-green-500" },
+    { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/abdullah-saeed-seo-expert/", color: "hover:text-blue-500" },
+    { icon: Facebook, label: "Facebook", href: "https://web.facebook.com/AbdullahSaeed8970/", color: "hover:text-blue-600" },
   ];
 
   return (
