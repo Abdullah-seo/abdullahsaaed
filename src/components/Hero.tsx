@@ -116,7 +116,7 @@ const Hero = () => {
                 <div className="w-full h-full bg-gradient-to-br from-secondary to-navy-800 flex items-center justify-center">
                   <div className="text-center">
                    <div className="text-8xl font-bold gradient-text">AS</div>
-                    <p className="text-muted-foreground mt-2 text-sm">Professional Photo</p>
+                    <p className="text-muted-foreground mt-2 text-sm">Abdullah Saeed</p>
                   </div>
                 </div>
               </div>
