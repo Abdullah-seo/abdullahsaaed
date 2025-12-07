@@ -100,12 +100,12 @@ const Footer = () => {
             <ul className="space-y-3 text-muted-foreground">
               <li>
                 <a href="mailto:abdullah@example.com" className="hover:text-primary transition-colors">
-                  abdullah@example.com
+                  abdullahseo859@gmail.com
                 </a>
               </li>
               <li>
                 <a href="tel:+1234567890" className="hover:text-primary transition-colors">
-                  +1 234 567 890
+                  +92 3137205502
                 </a>
               </li>
               <li>Available Worldwide</li>
